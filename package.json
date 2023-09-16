@@ -102,5 +102,10 @@
       "html"
     ],
     "all": true
+  },
+  "overrides": {
+    "java-caller": {
+      "njre": "git+https://github.com/mheiges/njre.git#adoptopenjdk"
+    }
   }
 }
